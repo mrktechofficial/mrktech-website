@@ -1,0 +1,1 @@
+console.log("MRK TECH website loaded");
